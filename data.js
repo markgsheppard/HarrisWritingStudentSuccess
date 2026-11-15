@@ -1,6 +1,7 @@
 // Listings for the Harris Writing Workshop prototype. jobs, boards, states, funds. Pulled 2026-11-15.
 window.HARRIS = {
 "pulled": "2026-11-15",
+"ncsl": "https://www.ncsl.org/jobs",
 "jobs": [
 {
 "name": "Legislative Assistant (Defense)",
@@ -1149,237 +1150,302 @@ window.HARRIS = {
 {
 "name": "Alabama",
 "org": "Alabama Legislature",
-"url": "https://alison.legislature.state.al.us/"
+"url": "https://alison.legislature.state.al.us/",
+"abbr": "AL"
 },
 {
 "name": "Alaska",
 "org": "Alaska State Legislature",
-"url": "https://akleg.gov/"
+"url": "https://akleg.gov/",
+"abbr": "AK"
 },
 {
 "name": "Arizona",
 "org": "Arizona State Legislature",
-"url": "https://www.azleg.gov/"
+"url": "https://www.azleg.gov/",
+"abbr": "AZ"
 },
 {
 "name": "Arkansas",
 "org": "Arkansas State Legislature",
-"url": "https://www.arkleg.state.ar.us/"
+"url": "https://www.arkleg.state.ar.us/",
+"abbr": "AR"
 },
 {
 "name": "California",
 "org": "California State Assembly (the Senate hires separately)",
-"url": "https://www.assembly.ca.gov/"
+"url": "https://www.assembly.ca.gov/",
+"abbr": "CA"
 },
 {
 "name": "Colorado",
 "org": "Colorado General Assembly",
-"url": "http://leg.colorado.gov/"
+"url": "http://leg.colorado.gov/",
+"abbr": "CO"
 },
 {
 "name": "Connecticut",
 "org": "Connecticut General Assembly",
-"url": "https://www.cga.ct.gov/"
+"url": "https://www.cga.ct.gov/",
+"abbr": "CT"
 },
 {
 "name": "Delaware",
 "org": "Delaware General Assembly",
-"url": "https://legis.delaware.gov/"
+"url": "https://legis.delaware.gov/",
+"abbr": "DE"
 },
 {
 "name": "Florida",
 "org": "Florida Legislature",
-"url": "http://www.leg.state.fl.us/Welcome/index.cfm"
+"url": "http://www.leg.state.fl.us/Welcome/index.cfm",
+"abbr": "FL"
 },
 {
 "name": "Georgia",
 "org": "Georgia General Assembly",
-"url": "https://www.legis.ga.gov/"
+"url": "https://www.legis.ga.gov/",
+"abbr": "GA"
 },
 {
 "name": "Hawaii",
 "org": "Hawaii State Legislature",
-"url": "https://www.capitol.hawaii.gov/"
+"url": "https://www.capitol.hawaii.gov/",
+"abbr": "HI"
 },
 {
 "name": "Idaho",
 "org": "Idaho Legislature",
-"url": "https://legislature.idaho.gov/"
+"url": "https://legislature.idaho.gov/",
+"abbr": "ID"
 },
 {
 "name": "Illinois",
 "org": "Illinois General Assembly",
-"url": "https://www.ilga.gov/"
+"url": "https://www.ilga.gov/",
+"abbr": "IL"
 },
 {
 "name": "Indiana",
 "org": "Indiana General Assembly",
-"url": "http://iga.in.gov/"
+"url": "http://iga.in.gov/",
+"abbr": "IN"
 },
 {
 "name": "Iowa",
 "org": "Iowa Legislature",
-"url": "https://www.legis.iowa.gov/"
+"url": "https://www.legis.iowa.gov/",
+"abbr": "IA"
 },
 {
 "name": "Kansas",
 "org": "Kansas Legislature",
-"url": "http://www.kslegislature.org/li/"
+"url": "http://www.kslegislature.org/li/",
+"abbr": "KS"
 },
 {
 "name": "Kentucky",
 "org": "Kentucky General Assembly",
-"url": "https://legislature.ky.gov/Pages/index.aspx"
+"url": "https://legislature.ky.gov/Pages/index.aspx",
+"abbr": "KY"
 },
 {
 "name": "Louisiana",
 "org": "Louisiana State Legislature",
-"url": "https://legis.la.gov/legis/home.aspx"
+"url": "https://legis.la.gov/legis/home.aspx",
+"abbr": "LA"
 },
 {
 "name": "Maine",
 "org": "Maine State Legislature",
-"url": "https://legislature.maine.gov/"
+"url": "https://legislature.maine.gov/",
+"abbr": "ME"
 },
 {
 "name": "Maryland",
 "org": "Maryland General Assembly",
-"url": "https://mgaleg.maryland.gov/mgawebsite/"
+"url": "https://mgaleg.maryland.gov/mgawebsite/",
+"abbr": "MD"
 },
 {
 "name": "Massachusetts",
 "org": "Massachusetts General Court",
-"url": "https://malegislature.gov/"
+"url": "https://malegislature.gov/",
+"abbr": "MA"
 },
 {
 "name": "Michigan",
 "org": "Michigan Legislature",
-"url": "http://www.legislature.mi.gov"
+"url": "http://www.legislature.mi.gov",
+"abbr": "MI"
 },
 {
 "name": "Minnesota",
 "org": "Minnesota State Legislature",
-"url": "https://www.leg.mn.gov/"
+"url": "https://www.leg.mn.gov/",
+"abbr": "MN"
 },
 {
 "name": "Mississippi",
 "org": "Mississippi Legislature",
-"url": "https://www.legislature.ms.gov/"
+"url": "https://www.legislature.ms.gov/",
+"abbr": "MS"
 },
 {
 "name": "Missouri",
 "org": "Missouri House of Representatives (the Senate hires separately)",
-"url": "https://house.mo.gov/"
+"url": "https://house.mo.gov/",
+"abbr": "MO"
 },
 {
 "name": "Montana",
 "org": "Montana State Legislature",
-"url": "https://leg.mt.gov"
+"url": "https://leg.mt.gov",
+"abbr": "MT"
 },
 {
 "name": "Nebraska",
 "org": "Nebraska Legislature",
-"url": "https://nebraskalegislature.gov/"
+"url": "https://nebraskalegislature.gov/",
+"abbr": "NE"
 },
 {
 "name": "Nevada",
 "org": "Nevada Legislature",
-"url": "https://www.leg.state.nv.us/"
+"url": "https://www.leg.state.nv.us/",
+"abbr": "NV"
 },
 {
 "name": "New Hampshire",
 "org": "New Hampshire General Court",
-"url": "http://www.gencourt.state.nh.us/"
+"url": "http://www.gencourt.state.nh.us/",
+"abbr": "NH"
 },
 {
 "name": "New Jersey",
 "org": "New Jersey Legislature",
-"url": "https://www.njleg.state.nj.us/"
+"url": "https://www.njleg.state.nj.us/",
+"abbr": "NJ"
+},
+{
+"name": "New Mexico",
+"org": "New Mexico Legislature",
+"url": "https://www.nmlegis.gov/",
+"abbr": "NM"
+},
+{
+"name": "New York",
+"org": "New York State Senate (the Assembly hires separately)",
+"url": "https://www.nysenate.gov/",
+"abbr": "NY"
+},
+{
+"name": "North Carolina",
+"org": "North Carolina General Assembly",
+"url": "https://www.ncleg.gov/",
+"abbr": "NC"
 },
 {
 "name": "North Dakota",
 "org": "North Dakota Legislative Branch",
-"url": "https://www.legis.nd.gov/"
+"url": "https://www.legis.nd.gov/",
+"abbr": "ND"
 },
 {
 "name": "Ohio",
 "org": "Ohio Legislature",
-"url": "https://www.legislature.ohio.gov/"
+"url": "https://www.legislature.ohio.gov/",
+"abbr": "OH"
 },
 {
 "name": "Oklahoma",
 "org": "Oklahoma State Legislature",
-"url": "http://www.oklegislature.gov/"
+"url": "http://www.oklegislature.gov/",
+"abbr": "OK"
 },
 {
 "name": "Oregon",
 "org": "Oregon State Legislature",
-"url": "https://www.oregonlegislature.gov/"
+"url": "https://www.oregonlegislature.gov/",
+"abbr": "OR"
 },
 {
 "name": "Pennsylvania",
 "org": "Pennsylvania General Assembly",
-"url": "https://www.legis.state.pa.us/"
+"url": "https://www.legis.state.pa.us/",
+"abbr": "PA"
 },
 {
 "name": "Rhode Island",
 "org": "Rhode Island General Assembly",
-"url": "https://www.rilegislature.gov/Pages/Default.aspx"
+"url": "https://www.rilegislature.gov/Pages/Default.aspx",
+"abbr": "RI"
 },
 {
 "name": "South Carolina",
 "org": "South Carolina Legislature",
-"url": "https://www.scstatehouse.gov/"
+"url": "https://www.scstatehouse.gov/",
+"abbr": "SC"
 },
 {
 "name": "South Dakota",
 "org": "South Dakota Legislature",
-"url": "https://sdlegislature.gov/"
+"url": "https://sdlegislature.gov/",
+"abbr": "SD"
 },
 {
 "name": "Tennessee",
 "org": "Tennessee General Assembly",
-"url": "https://capitol.tn.gov"
+"url": "https://capitol.tn.gov",
+"abbr": "TN"
 },
 {
 "name": "Texas",
 "org": "Texas Legislature",
-"url": "https://capitol.texas.gov/"
+"url": "https://capitol.texas.gov/",
+"abbr": "TX"
 },
 {
 "name": "Utah",
 "org": "Utah State Legislature",
-"url": "https://le.utah.gov/"
+"url": "https://le.utah.gov/",
+"abbr": "UT"
 },
 {
 "name": "Vermont",
 "org": "Vermont General Assembly",
-"url": "https://legislature.vermont.gov/"
+"url": "https://legislature.vermont.gov/",
+"abbr": "VT"
 },
 {
 "name": "Virginia",
 "org": "Virginia General Assembly",
-"url": "https://virginiageneralassembly.gov/"
+"url": "https://virginiageneralassembly.gov/",
+"abbr": "VA"
 },
 {
 "name": "Washington",
 "org": "Washington State Legislature",
-"url": "https://leg.wa.gov/"
+"url": "https://leg.wa.gov/",
+"abbr": "WA"
 },
 {
 "name": "West Virginia",
 "org": "West Virginia Legislature",
-"url": "http://www.wvlegislature.gov/"
+"url": "http://www.wvlegislature.gov/",
+"abbr": "WV"
 },
 {
 "name": "Wisconsin",
 "org": "Wisconsin State Legislature",
-"url": "https://legis.wisconsin.gov"
+"url": "https://legis.wisconsin.gov",
+"abbr": "WI"
 },
 {
 "name": "Wyoming",
 "org": "Wyoming Legislature",
-"url": "https://www.wyoleg.gov/"
+"url": "https://www.wyoleg.gov/",
+"abbr": "WY"
 }
 ],
 "funds": [
